@@ -59,5 +59,7 @@ Fluent in **English** and **Spanish**.
 - Processed and analyzed scientific datasets using Python to extract meaningful insights.  
 - Developed Python programs for solving physics-based problems, demonstrating structured programming and analytical skills.  
 
-**Languages:** English (Fluent), Spanish (Native), French (Conversational)
-**Hobbies:** Traveling, Reading & Research, Tutoring, Hiking, Cooking & Baking
+---
+
+# **Languages:** English (Fluent), Spanish (Native), French (Conversational)
+# **Hobbies:** Traveling, Reading & Research, Tutoring, Hiking, Cooking & Baking
