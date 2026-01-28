@@ -61,5 +61,5 @@ Fluent in **English** and **Spanish**.
 
 ---
 
-# **Languages:** English (Fluent), Spanish (Native), French (Conversational)
-# **Hobbies:** Traveling, Reading & Research, Tutoring, Hiking, Cooking & Baking
+* Languages: English (Fluent), Spanish (Native), French (Conversational)
+* Hobbies: Traveling, Reading & Research, Tutoring, Hiking, Cooking & Baking
